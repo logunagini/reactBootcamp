@@ -1,0 +1,62 @@
+
+
+html {
+  font-family: "Quicksand", sans-serif;
+  line-height: 1.5;
+
+  color: #ebe7ef;
+  background: radial-gradient(#280a48, #20043d);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  min-height: 80rem;
+}
+li {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  display: inline-block;
+}
+
+nav a {
+  color: #fff;
+  margin-right: 10px;
+  text-decoration: none;
+}
+.fields-container {
+  display: flex; 
+  justify-content: center;
+  background-color: white; 
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 30px;
+}
+.fields-section {
+  flex: 1;
+  padding: 20px;
+}
+.fields-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+.form-label {
+  color: #333333;
+} 
+.form-control {
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.custom-radio-label {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
