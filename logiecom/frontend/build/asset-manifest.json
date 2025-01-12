@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactBootcamp/logiecom/static/css/main.f7e235cd.css",
+    "main.js": "/reactBootcamp/logiecom/static/js/main.714b18db.js",
+    "index.html": "/reactBootcamp/logiecom/index.html",
+    "main.f7e235cd.css.map": "/reactBootcamp/logiecom/static/css/main.f7e235cd.css.map",
+    "main.714b18db.js.map": "/reactBootcamp/logiecom/static/js/main.714b18db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7e235cd.css",
+    "static/js/main.714b18db.js"
+  ]
+}
